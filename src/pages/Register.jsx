@@ -1,10 +1,11 @@
 import React from 'react'
-import '../index.css'
+import "../index.css"
 
 const Register = () => {
   return (
     <>
-      <div classNmae="form-container">
+      <div className="form-container">
+
         <h1>Register</h1>
         </div>
     </>
