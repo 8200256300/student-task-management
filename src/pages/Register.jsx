@@ -5,6 +5,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { useState } from "react";
 import { useEffect } from "react";
 
+//state declaration
 const Register = () => {
   const [formData, setFormData] = React.useState({
     name: "",
